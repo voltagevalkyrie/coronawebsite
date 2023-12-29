@@ -71,4 +71,3 @@ Special thanks to [World Health Organization (WHO)](https://www.who.int/) and ot
 
 ---
 
-Feel free to customize this README file based on your project's specific details and requirements. Include any additional information, setup instructions, or screenshots to enhance the user experience.
